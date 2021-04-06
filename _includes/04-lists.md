@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. I love Sports 🏅
+2. I like innovation & tech 💻
+  
+* I like Italian food.
+  * I like pizza 🍕
+  * I like pasta 🍝
